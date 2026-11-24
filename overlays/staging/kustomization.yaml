@@ -10,7 +10,7 @@ namespace: staging
 images:
 - name: PROJECT/IMAGE_BACKEND
   newName: levonml/4-10-todo-backend-staging
-  newTag: 70f9cdb90c530666b121c1ea09ba78428be17b4f
+  newTag: 2f58c91bdfd35bde45825279fd6f8a65d86f9003
 - name: PROJECT/IMAGE_FRONTEND
   newName: levonml/4-10-the-project-staging
-  newTag: 70f9cdb90c530666b121c1ea09ba78428be17b4f
+  newTag: 2f58c91bdfd35bde45825279fd6f8a65d86f9003
